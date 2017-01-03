@@ -1,3 +1,7 @@
+---
+layout: default
+title: Journal of a Residence in China and the neighbouring countries from 1830 to 1833. With an introductory essay by the Hon. and Rev. Baptist Wriothesley Noel.
+---
 <!-- This file was created from text provided by the British Library. --> 
 
 
